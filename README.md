@@ -283,16 +283,4 @@ npm run build
 4. Push to the branch
 5. Create a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, please email support@taskmanager.com or create an issue in the GitHub repository.
-
-## Acknowledgments
-
-- Thanks to the open-source community for the amazing libraries
-- Icons provided by Lucide React
-- UI inspiration from modern task management applications 
