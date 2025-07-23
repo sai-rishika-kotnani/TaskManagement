@@ -1,3 +1,5 @@
+<img width="1685" height="749" alt="Screenshot 2025-07-07 120348" src="https://github.com/user-attachments/assets/0e36e998-5e17-4472-a8fb-f9919682b152" />
+
 # Task Manager Application
 
 A comprehensive task management application built with Node.js, Express, MongoDB, and React. This application provides user authentication, task creation and assignment, real-time notifications, and team collaboration features.
